@@ -1,0 +1,101 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Poppins", sans-serif;
+}
+.hero-content {
+    background-image: linear-gradient(266deg,rgba(0, 21, 255, 0.822) 100%), url(/Public/Assets/images/portrait-curly-woman-sitting-sofa.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.need {
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+.t1{
+    color: white;
+}
+.t1 .book{
+    color: #8cca24;
+}
+.bar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-inline: 150px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.img1{
+    width: 15%;
+}
+ul {
+    display: flex;
+    gap: 30px;
+}
+li {
+    list-style-type: none;
+}
+ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+/* .dest1, .dest2{
+    background-color: red;
+    width: 600px;
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+.dest1{
+    background-image: url(/Public/Assets/images/portrait-curly-woman-sitting-sofa.jpg);
+}
+.dest2{
+    background-image: url(/Public/Assets/images/portrait-curly-woman-sitting-sofa.jpg);
+}
+.dest-upper{
+    display: flex;
+    gap: 20px;
+}
+.dest-lower{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+.destin{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.dest3, .dest4, .dest5, .dest6{
+    background-color: red;
+    width: 290px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+}
+.dest3{
+    background-image: url(/Public/Assets/images/portrait-curly-woman-sitting-sofa.jpg);
+}
+.dest4{
+    background-image: url(/Public/Assets/images/portrait-curly-woman-sitting-sofa.jpg);
+}
+.dest5{
+    background-image: url(/Public/Assets/images/portrait-curly-woman-sitting-sofa.jpg);
+}
+.dest6{
+    background-image: url(/Public/Assets/images/portrait-curly-woman-sitting-sofa.jpg);
+} */
